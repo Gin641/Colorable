@@ -14,7 +14,7 @@ public class square extends shape implements Colorable {
     }
     @Override
     public double getArea(){
-        return this.size * this.size
+        return this.size * this.size;
     }
     @Override
     public void howToColor(){
